@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="홈"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home"/>
+    <item android:title="찜"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:id="@+id/favorite"/>
+    <item android:title="마이페이지"
+        android:icon="@drawable/ic_baseline_person_outline_24"
+        android:id="@+id/myPage"/>
+</menu>
